@@ -36,3 +36,19 @@ Unduh script `gas.py` dari repositori ini:
 
 ```sh
 wget https://raw.githubusercontent.com/smdbngkt/autoklem/main/gas.py
+
+```
+
+## Menjalankan Script
+
+```
+screen -S bot
+```
+
+```
+python3 gas.py
+```
+
+```
+ctrl A + D
+```
